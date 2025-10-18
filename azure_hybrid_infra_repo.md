@@ -1,6 +1,6 @@
 # **Azure Cloud Infrastructure and Hybrid Management Project**
 
-![Azure Architecture Diagram](docs/architecture-diagram.png)
+![Azure Architecture Diagram](Azure Final Project.drawio3.png)
 
 ---
 
