@@ -1,6 +1,8 @@
 # **Azure Cloud Infrastructure and Hybrid Management Project**
 
-![Azure Architecture Diagram](docs/architecture-diagram.png)
+![Azure Architecture Diagram]
+
+<img width="1923" height="1084" alt="Azure Final Project drawio3" src="https://github.com/user-attachments/assets/173572cf-d0cd-4c43-b240-c23844aaf36a" />
 
 ---
 
@@ -168,6 +170,9 @@ Each Azure component was selected for *purpose and impact*:
 
 > The real success of a Cloud Engineer isn’t in provisioning — it’s in designing systems that thrive under change.  
 This project proves the mindset of a **Cloud Architect who builds for resilience, manages for clarity, and secures for tomorrow.**
+
+![WhatsApp Image 2025-10-09 at 10 18 44_28124ea8](https://github.com/user-attachments/assets/f29a177b-fb25-440d-b49f-1e1487a346ba)
+
 
 ---
 
