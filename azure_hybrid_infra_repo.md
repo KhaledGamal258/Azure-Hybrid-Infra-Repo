@@ -1,7 +1,6 @@
 # **Azure Cloud Infrastructure and Hybrid Management Project**
 
-![Azure Architecture Diagram] <img width="1923" height="1084" alt="Azure Final Project drawio3" src="https://github.com/user-attachments/assets/cf1d2836-b878-4658-b119-e7abcd617448" />
-
+![AZ](docs/Azure Final Project.drawio3.png)
 ---
 
 ### 🌐 Overview  
