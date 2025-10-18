@@ -1,6 +1,6 @@
 # Azure-Hybrid-Infra-Repo
 Azure Cloud Infrastructure and Hybrid Management Project
-![Azure Architecture Diagram](docs/architecture-diagram.png)
+![Azure Architecture Diagram](docs/WhatsApp Image 2025-10-09 at 10.18.44_28124ea8.jpg)
 | Management | WAC + VPN Gateway | Hybrid orchestration | Unified management experience |
 
 
