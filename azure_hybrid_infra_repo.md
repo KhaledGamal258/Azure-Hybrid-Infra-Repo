@@ -168,8 +168,12 @@ Each Azure component was selected for *purpose and impact*:
 
 > The real success of a Cloud Engineer isn’t in provisioning — it’s in designing systems that thrive under change.  
 This project proves the mindset of a **Cloud Architect who builds for resilience, manages for clarity, and secures for tomorrow.**
+>
+> 
+![WhatsApp Image 2025-10-09 at 10 18 44_28124ea8](https://github.com/user-attachments/assets/23d52250-088c-47aa-b4c4-6993aefeea31)
 
 ---
+
 
 ## 📂 Repository Structure
 ```
