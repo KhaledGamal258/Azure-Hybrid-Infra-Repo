@@ -1,7 +1,7 @@
 # **Azure Cloud Infrastructure and Hybrid Management Project**
 
-![AZ](docs/Azure Final Project.drawio3.png)
----
+[![AZ](docs/Azure Final Project.drawio3.png)
+](https://github.com/KhaledGamal258/Azure-Hybrid-Infra-Repo/blob/607bd9bdf74d29bc7ea3b4644fc3d1123e195f0b/docs/Azure%20Final%20Project.drawio3.png)---
 
 ### 🌐 Overview  
 This project demonstrates the design and implementation of a **secure, cloud-native Azure infrastructure** seamlessly integrated with **hybrid management** capabilities.  
