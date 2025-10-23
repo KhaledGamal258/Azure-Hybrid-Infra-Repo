@@ -2,7 +2,8 @@
 
 ![Azure Architecture Diagram]
 
-<img width="1923" height="1084" alt="Azure Final Project drawio3" src="https://github.com/user-attachments/assets/173572cf-d0cd-4c43-b240-c23844aaf36a" />
+<img width="1923" height="1072" alt="Azure Final Project Final" src="https://github.com/user-attachments/assets/cdcc1e6e-ce4b-4926-8d55-ca272d1ee8fe" />
+
 
 ---
 
